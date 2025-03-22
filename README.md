@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adebowale.
 - 🔨 I’m big on Artificial interlligence, software systems and Computer theory.
 - 🌱 I’m currently learning Rust and Machine Learning.
-- 💞️ I’m looking to work: [upwork.com/freelancers/adebowale](upwork.com/freelancers/adebowale)
+- 💞️ I’m looking for work: [upwork.com/freelancers/adebowale](https://upwork.com/freelancers/adebowale)
 - 📫 How to reach me: dkosoko23@gmail.com
