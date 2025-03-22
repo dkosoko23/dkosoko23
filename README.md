@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adebowale.
-- 🔨 I’m interested in entrepreneurship & building powerful digital products
-- 🌱 I’m currently learning C++, entrepreneurship
-- 💞️ I’m looking to collaborate on entrepreneurial partnerships
+- 🔨 I’m big on Artificial interlligence, software systems and Computer theory.
+- 🌱 I’m currently learning Rust and Machine Learning.
+- 💞️ I’m looking to work: upwork.com/freelancers/adebowale
 - 📫 How to reach me: dkosoko23@gmail.com
